@@ -19,4 +19,9 @@ $ change name .env
 $ pnpm start
 or
 $ npm start
+
+# fifth running unit test
+$ pnpm test -- test/name_file
+or
+$ npm test -- test/name_file
 ```
